@@ -1,5 +1,8 @@
 # damage-calc
 このモジュールでは、ダメージ計算を行うことができます。  
+[![CircleCI](https://circleci.com/gh/lilylive/damage-calc-4005-v2-yarn
+.svg?style=svg)](https://circleci.com/gh/lilylive/damage-calc-4005-v2-yarn
+)
 ダメージ計算には
 
 - ダメージ
